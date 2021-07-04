@@ -1,1 +1,1 @@
-this is the updated README.md file for alx-pre_course
+This is the updated README.md file for alx-pre_course
